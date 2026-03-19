@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ctype.h": "c",
+        "limits": "c",
+        "ratio": "c",
+        "chrono": "c",
+        "algorithm": "c"
+    },
+    "sqltools.connections": []
+}
